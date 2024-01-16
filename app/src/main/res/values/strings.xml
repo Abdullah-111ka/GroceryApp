@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Grocery APP</string>
+    <string name="app_logo">app logo</string>
+    <string name="product_name">Product name</string>
+    <string name="product_found">PRODUCT FOUND!</string>
+    <string name="name">Name:</string>
+    <string name="price">Price</string>
+    <string name="delete">Delete</string>
+    <string name="old_member_information">Old Member Information</string>
+    <string name="make_a_purchase_for_member_with_the_following_data">Make a purchase for member with the following data?</string>
+    <string name="signup">SIGNUP</string>
+    <string name="lastname">lastname</string>
+
+
+    <string-array name="products_category">
+        <!-- FOOD-->
+        <item>PLEASE SELECT FROM THE FF—</item>
+        <item>POWDERED MILK, JUICE, COFFEE</item>
+        <item>SNACKS, BISCUITS, CANDIES </item>
+        <item>CONDIMENTS, SEASONINGS, OIL</item>
+        <item>NOODLES, PASTA, RICE</item>
+        <item>SUGAR</item>
+        <item>CANNED GOODS, JUICE, MILK</item>
+        <item>RTD, BEVERAGES, LIQUOR</item>
+
+        <!-- NONFOOD-->
+        <item>SHAMPOO, CONDITIONER</item>
+        <item>SOAP, HYGIENE, DENTAL CARE</item>
+        <item>DETERGENT, FABCON, BLEACH </item>
+        <item>DIAPERS, NAPKIN, TISSUE </item>
+        <item>HOUSEHOLD</item>
+        <item>CIGARETTES, MEDICINES</item>
+
+
+    </string-array>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
